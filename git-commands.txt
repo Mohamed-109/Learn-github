@@ -6,7 +6,13 @@
 
 4- git reset head to remove a file from statge part
 
-5- 
+5- git commit -m "write the message that you want" to move from statge area to local repo
+
+6- git branch to know the branch (master) 
+
+7- git push to push data to remote repo (origin main)
+
+8- git pull to get data from remote repo (origin) to local repo 
 
 
 
