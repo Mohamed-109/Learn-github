@@ -1,0 +1,12 @@
+1- git clone with link to have the repo locally on your device.
+
+2- git status to know the status of the repo in the file if we did not add any file
+
+3- git add to add fiels to the repo in the statge part
+
+4- git reset head to remove a file from statge part
+
+5- 
+
+
+
